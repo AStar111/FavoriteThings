@@ -1,0 +1,53 @@
+html {
+  background-color: rgb(241, 240, 215);
+  background: url("IMG/jQ5oEw.png") no-repeat center fixed;
+  background-size: cover;
+}
+
+img {
+  border: 5px solid #000000;
+  border-radius: 20px;
+}
+p {
+  font-size: medium;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+}
+body {
+  background-color: rgba(241, 240, 215);
+  border-radius: 15px;
+  border: none;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 75px 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.center {
+  text-align: center;
+}
+ul {
+  font-size: large;
+}
+h2 {
+  color: brown;
+}
+h1 {
+  text-underline-position: below;
+}
+a:hover {
+  font-weight: bold;
+}
+a {
+  color: navy;
+  font-size: large;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+p {
+  color: gray;
+}
+ul {
+  color: gray;
+}
